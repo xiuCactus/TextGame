@@ -1,4 +1,4 @@
-<<Text Game>>
+Text Game:
 
 Welcome to the Text Game, a simple text-based game developed in C#. This game presents the player with a choice of three boxes, each leading to different consequences. Choose wisely to win!
 
